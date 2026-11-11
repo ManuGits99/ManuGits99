@@ -11,9 +11,6 @@ Email Me 👉 ✉️ **manasbapat55@gmail.com** For Collaboration/Project or Any
 - 😄 **Pronouns:** Manas Sir
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=technosnag&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/manas.bapat.31) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manas_07_msd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-bapat-5a26b92a0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manasbapat55@gmail.com) 
 
